@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula_Mobile_03_exe2</string>
+    <string name="etQuantidade" >DIGITE A QUANTIDADE DE LITROS </string>
+    <string name="etConsumo" >  DIGITE O VALOR DO CONSUMO MEDIO</string>
+    <string name="finalCalc" >finalCalc</string>
+    <string name="calcular" >calcular</string>
+</resources>
